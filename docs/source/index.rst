@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Lucky88 – Cổng Game Đẳng cấp châu Á, đa dạng trò chơi & khuyến mãi hấp dẫn
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Lucky88 <https://lucky88.video/>`_ là sân chơi đẳng cấp châu Á, cung cấp dịch vụ chơi game trực tuyến hàng đầu với hàng trăm sản phẩm hấp dẫn. Người chơi có thể tham gia đa dạng loại hình giải trí như Thể Thao, Live Casino, Game Bài, Đá Gà, Quay Số, Lô Đề, Nổ Hũ, Bắn Cá và nhiều trò chơi thú vị khác. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Đặc biệt, Lucky88 còn hợp tác với HitClub để mang đến sảnh game chất lượng cho thị trường Việt Nam. Ngoài ra, Lucky88 cũng cung cấp các tin tức chơi game hữu ích, kinh nghiệm soi kèo và các chương trình khuyến mãi hấp dẫn, đảm bảo mang đến trải nghiệm chơi game chuyên nghiệp và an toàn cho người chơi.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 325B Đ. Kinh Dương Vương, khu phố 6, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0834224208. 
 
-.. toctree::
+Email: info@lucky88.video. 
 
-   usage
-   api
+Website: https://lucky88.video/
+
+#lucky88 #trangchulucky88 #dangkylucky88 #dangnhaplucky88 #linklucky88
